@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/yattal7/Freelance#readme",
   "dependencies": {
+    "@types/mongoose": "^5.10.3",
     "express": "^4.17.1",
+    "mongoose": "^5.11.9",
     "nodemon": "^2.0.6"
   },
   "devDependencies": {
